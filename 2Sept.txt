@@ -1,0 +1,25 @@
+
+owner -> U
+Gro -> G
+O
+
+/home/tushargoyal19tj
+
+r =4
+w=2
+x=1
+
+rwx 7
+rw  6
+rx  5
+read
+file: cat ( content read)
+folder:  ls command
+
+write:
+file : modify content
+folder: file create or delete
+
+execute:
+file : run a file as a program
+folder: cd command
